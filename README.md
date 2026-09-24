@@ -14,4 +14,12 @@ Je crée des solutions sur mesure lorsque les outils existants manquent, coûten
 
 - [Les repères de Roland](https://github.com/francois-vallin/Les-reperes-de-Roland) — des repères simples, au bon moment, pour aider une personne à rester chez elle, en hommage à Roland.
 
+## Dossiers gastronomiques
+
+Une collection de protocoles de cuisine lente, traités avec le sérieux d’un projet de production — et la juste dose d’autodérision.
+
+- [Bœuf bourguignon](https://github.com/francois-vallin/boeuf-bourguignon) — mijotage, braises et sauce nappante.
+- [Pot-au-feu](https://github.com/francois-vallin/pot-au-feu) — bouillon limpide et extraction maîtrisée.
+- [Coq au vin](https://github.com/francois-vallin/coq-au-vin) — braisage lent et réduction de précision.
+
 > La technique a du sens lorsqu’elle aide quelqu’un, concrètement.
